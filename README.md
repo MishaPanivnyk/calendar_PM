@@ -1,4 +1,4 @@
-[REACT Calendar]{https://calendarpm.netlify.app/}
+[REACT Calendar] https://calendarpm.netlify.app/
 
 The tech stack is:
 
